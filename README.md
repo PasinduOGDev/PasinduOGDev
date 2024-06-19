@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
-- 👨‍💻 **A Developer of KreedX Club. 🌆**
+- 👨‍💻 **Founder of KreedX Club. 🌆**
 
 - ⚡ Fun fact: **Call me as OG.**
 
