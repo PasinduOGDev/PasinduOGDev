@@ -8,7 +8,7 @@
 
 <br>
   
-- 🌱 I’m currently learning **Java, jQuery, SQL, PHP**
+- 🌱 I’m currently learning **Java, Python, jQuery, Laravel, PHP, Tailwind CSS, & Next Js**
 
 <!-- - 👨‍💻 All of my projects are available at [pasinduog.orgfree.com](pasinduog.orgfree.com) -->
 
