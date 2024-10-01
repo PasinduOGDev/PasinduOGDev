@@ -8,15 +8,15 @@
 
 <br>
   
-- 🌱 I’m currently learning **Java, Python, jQuery, Laravel, PHP, Tailwind CSS, & Next Js**
+- 🌱 I’m currently learning **Backend Languages including Java, Python, jQuery, Laravel, PHP, and Mastering JavaScript**
 
 <!-- - 👨‍💻 All of my projects are available at [pasinduog.orgfree.com](pasinduog.orgfree.com) -->
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Java, Bootstrap 5, and MySQL.**
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
-- 👨‍💻 **One of the Founders of KreedX 🌆**
+- 👨‍💻 **A Founder and Backend Dev Lead of KreedX 🌆**
 
 - ⚡ Fun fact: **Call me as OG.**
 
