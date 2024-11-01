@@ -23,7 +23,7 @@
 </td>
 
 <td width="50%" align="center">
-  <img align="right" alt="coding" src="https://i.postimg.cc/Gmbz2zgr/Whats-App-Image-2024-10-01-at-09-40-07-80bb17b6-copy.jpg" width="100%">
+  <img align="right" alt="coding" src="https://i.postimg.cc/RVN7sFpr/IMG-2824-compressed-removebg-preview.png" width="100%">
 </td>
   
 </tr>
