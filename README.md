@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
-- 👨‍💻 **A Founder and Backend Dev Lead of KreedX 🌆**
+- 👨‍💻 **Backend Dev Lead of KreedX 🌆**
 
 - ⚡ Fun fact: **Call me as OG.**
 
